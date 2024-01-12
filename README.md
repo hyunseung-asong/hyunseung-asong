@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hyunseung-asong
-- I'm a aspiring software developer recently graduated from SJSU.
+- I'm an aspiring software developer recently graduated from SJSU.
 - Feel free to look at my works from both class and personal projects.
 - 📫 How to reach me: hyunseung.asong@gmail.com
 
